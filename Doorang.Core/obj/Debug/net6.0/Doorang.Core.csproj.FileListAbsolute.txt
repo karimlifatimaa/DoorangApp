@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\bin\Debug\net6.0\Doorang.Core.deps.json
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\bin\Debug\net6.0\Doorang.Core.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\bin\Debug\net6.0\Doorang.Core.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\refint\Doorang.Core.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\Doorang.Core.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Core\obj\Debug\net6.0\ref\Doorang.Core.dll

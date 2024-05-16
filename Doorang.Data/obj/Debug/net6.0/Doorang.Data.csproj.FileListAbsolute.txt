@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Data.deps.json
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Data.runtimeconfig.json
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Data.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Data.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Core.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\bin\Debug\net6.0\Doorang.Core.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.csproj.CopyComplete
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\refint\Doorang.Data.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\Doorang.Data.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Data\obj\Debug\net6.0\ref\Doorang.Data.dll

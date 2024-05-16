@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Business.deps.json
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Business.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Business.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Core.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Data.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Data.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\bin\Debug\net6.0\Doorang.Core.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\refint\Doorang.Business.dll
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\Doorang.Business.pdb
+C:\Users\II novbe\Desktop\DoorangApp\Doorang.Business\obj\Debug\net6.0\ref\Doorang.Business.dll
